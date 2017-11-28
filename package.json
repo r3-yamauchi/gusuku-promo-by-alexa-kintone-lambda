@@ -1,0 +1,11 @@
+{
+  "name": "gusuku-promo-by-alexa-kintone-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "r3it",
+  "dependencies": {
+    "alexa-sdk": "^1.0.21",
+    "request": "^2.83.0"
+  }
+}
