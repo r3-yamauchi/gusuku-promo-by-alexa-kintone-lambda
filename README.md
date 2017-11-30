@@ -1,9 +1,9 @@
 # gusuku-promo-by-alexa-kintone-lambda
-Amazon Echo に kintoneアプリ開発プラットフォーム gusuku の紹介をさせる
+[Amazon Echo に kintoneアプリ開発プラットフォーム gusuku の紹介をさせる](https://blog.r3it.com/gusuku-promotion-by-alexa-45ab0aa18b33)
 
 
 
-これは、[アールスリーインスティテュート](https://www.r3it.com/) のブログ「[R3 Cloud Journey](https://blog.r3it.com/)」に掲載するブログ記事「Amazon Echo に gusuku の紹介をさせる」内で解説する AWS Lambda Function のサンプルコードです。
+これは、[アールスリーインスティテュート](https://www.r3it.com/) のブログ「[R3 Cloud Journey](https://blog.r3it.com/)」に掲載したブログ記事[「Amazon Echo に gusuku の紹介をさせる」](https://blog.r3it.com/gusuku-promotion-by-alexa-45ab0aa18b33) 内で解説した AWS Lambda Function のサンプルコードです。
 
 
 
