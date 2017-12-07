@@ -30,10 +30,10 @@ exports.handler = function (event, context, callback) {
 
 const handlers = {
   "LaunchRequest": function () {
-    this.emit("AMAZON.HelpIntent");
+    this.emit(":ask", kintoneData.gusuku + kintoneData.prompt, kintoneData.prompt);
   },
   "AMAZON.HelpIntent": function () {
-    this.emit(":ask", kintoneData.gusuku);
+    this.emit(":ask", kintoneData.prompt, kintoneData.prompt);
   },
   "GusukuIntent": function () {
     let sign = this.event.request.intent.slots.GusukuSign.value;
